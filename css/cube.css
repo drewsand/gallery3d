@@ -31,7 +31,7 @@ body {
   height: 100%;
   background-color: crimson;
   background-size: cover;
-  -webkit-box-reflect: below 1px linear-gradient(transparent, black);
+  -webkit-box-reflect: below 0px linear-gradient(transparent, #0000006e);
   box-shadow: 0 0 6px 3px #1f1c1c;
   backface-visibility: hidden;
   border-radius: 6px; }
